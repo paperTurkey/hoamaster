@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on The Isle of Trees Community</title>
-    <link>https://paperturkey.github.io/hoamaster/categories/</link>
+    <link>http://www.avalonhoasc.com/categories/</link>
     <description>Recent content in Categories on The Isle of Trees Community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://paperturkey.github.io/hoamaster/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.avalonhoasc.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
