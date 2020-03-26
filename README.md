@@ -25,4 +25,6 @@ Obviously, we replace the year, month, and file name with what we actually want 
 - [ ] Include Map of community
 - [X] Include Picture of Sign @ Front
 - [ ] Build internal email addresses for board members
-- [ ] Fix link for Property Improvement Request form
+- [X] Fix link for Property Improvement Request form
+- [X] Fix the contact us link
+- [X] Point contact us link to President's email
