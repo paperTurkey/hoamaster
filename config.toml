@@ -1,0 +1,34 @@
+baseURL = "127.0.0.1"
+languageCode = "en-us"
+title = "The Isle of Trees Community"
+theme = "ananke"
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 1720689101561189 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = ""
+  description = "Welcome to our community."
+  facebook = "https://www.facebook.com/groups/1720689101561189/"
+  twitter = ""
+  instagram = ""
+  youtube = ""
+  github = "https://github.com/paperTurkey/communityMU"
+  gitlab = ""
+  linkedin = ""
+  mastodon = ""
+  slack = ""
+  stackoverflow = ""
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-dark-gray"
+  featured_image = "/images/gettyimages-1066713660-2048x2048.jpg"
+  recent_posts_number = 4
