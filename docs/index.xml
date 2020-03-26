@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Isle of Trees Community</title>
+    <link>127.0.0.1/</link>
+    <description>Recent content on The Isle of Trees Community</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Mar 2020 21:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="127.0.0.1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Board Meeting Agenda</title>
+      <link>127.0.0.1/posts/2020/03/meetingagenda/</link>
+      <pubDate>Tue, 10 Mar 2020 21:00:00 -0400</pubDate>
+      
+      <guid>127.0.0.1/posts/2020/03/meetingagenda/</guid>
+      <description>Board of Directors Meeting on March 10, 2020  Executive Session (6:30 - 7:00) Call to Order General Session  Review and Approval of Agenda Minutes Review &amp;amp; Approval Neighborhood Watch ACC Property Improvements Request Welcome Team / New Residents New Business  Open Forum (Community Members Comments &amp;amp; Issues) The Newsletter The Website Message Board      </description>
+    </item>
+    
+    <item>
+      <title>Contact Information</title>
+      <link>127.0.0.1/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>127.0.0.1/contact/</guid>
+      <description>The Board of Directors   President: Charlie Smith Vice President: Cindy Peterson Secretary: Debi Mabie Treasurer: Cindy Peterson  Welcome Team  Russ and Carol Rhodes  Contact Us This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out Formspree for a simple, free form service.</description>
+    </item>
+    
+    <item>
+      <title>Our Official Documents</title>
+      <link>127.0.0.1/documents/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>127.0.0.1/documents/</guid>
+      <description>By-Laws of Avalon Homeowners Association, Inc.
+Articles of Incorporation for Avalon Homeowners Association, Inc.
+Declaration of Covenants with Amendments
+Property Improvement Request Form</description>
+    </item>
+    
+  </channel>
+</rss>
