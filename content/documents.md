@@ -14,4 +14,4 @@ menu: main
 
 [Declaration of Covenants with Amendments](../forms/2011.June.Declaration_of_Covenants_with_Amend.pdf)
 
-[Property Improvement Request Form](../forms/PIR_FORM.pdf)
+[Property Improvement Request Form](../forms/PIR_FORM.PDF)

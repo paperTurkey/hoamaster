@@ -1,6 +1,6 @@
 baseURL = "http://www.avalonhoasc.com"
 languageCode = "en-us"
-title = "The Isle of Trees Community"
+title = "Avalon"
 theme = "ananke"
 
 MetaDataFormat = "yaml"
@@ -23,6 +23,6 @@ publishDir = "docs"
   instagram = ""
   github = "https://github.com/paperTurkey/hoamaster"
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-dark-gray"
+  background_color_class = "bg-silver"
   featured_image = "/images/avalonfront.jpg"
   recent_posts_number = 4
