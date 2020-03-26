@@ -3,46 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>127.0.0.1/posts/2020/03/meetingagenda/</loc>
+    <loc>https://paperturkey.github.io/hoamaster/posts/2020/03/meetingagenda/</loc>
     <lastmod>2020-03-10T21:00:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>127.0.0.1/posts/</loc>
+    <loc>https://paperturkey.github.io/hoamaster/posts/</loc>
     <lastmod>2020-03-10T21:00:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>127.0.0.1/</loc>
+    <loc>https://paperturkey.github.io/hoamaster/</loc>
     <lastmod>2020-03-10T21:00:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>127.0.0.1/categories/</loc>
+    <loc>https://paperturkey.github.io/hoamaster/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>127.0.0.1/contact/</loc>
+    <loc>https://paperturkey.github.io/hoamaster/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>127.0.0.1/documents/</loc>
+    <loc>https://paperturkey.github.io/hoamaster/documents/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>127.0.0.1/tags/</loc>
+    <loc>https://paperturkey.github.io/hoamaster/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
