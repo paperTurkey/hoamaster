@@ -7,4 +7,21 @@ If you are going to maintain this site, you are going to need to start with [acq
 
 ## Create New content
 
+### Create new blog posts
+The file structure for blog posts is *content/posts/fourDigitYear/twoDigitMonth/filename.md*. So the initial post was made in `content/posts/2020/03/meetingAgenda.md`. This is going to be important to continue for posterities sake. Create a new post with the following:
+
+```
+hugo new posts/2020/03/meetingMinutes.md
+```
+
+Obviously, we replace the year, month, and file name with what we actually want to use.
+
 ## Update Standard Pages
+
+
+## To-Do
+- [X] Allow for community maintenance
+- [X] Secure new url (avalonhoasc.com)
+- [] Include Map of community
+- [] Include Picture of Sign @ Front
+- [] Build internal email addresses for board members
