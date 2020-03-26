@@ -8,7 +8,7 @@ menu: main
 
 ---
 
-The Isle of Trees Community is located right off of Irmo Drive in Irmo, South Carolina in the 29212 area code.
+The Avalon community is located right off of Irmo Drive in Irmo, South Carolina in the 29212 area code.
 
 # The Board of Directors
 ---
@@ -22,10 +22,9 @@ The Isle of Trees Community is located right off of Irmo Drive in Irmo, South Ca
 * Russ and Carol Rhodes
 
 # Contact Us
+If you have any questions or concerns for the board, please use the form below to reach out to us and we will get back with you soon.
 
-This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out [Formspree](https://formspree.io/) for a simple, free form service.
-
-{{< form-contact action="https://example.com"  >}}
+{{< form-contact action="https://formspree.io/xvoqyydp"  >}}
 
 # Other Contacts
 Dial 911 for Police, Fire, and Ambulance emergencies.
