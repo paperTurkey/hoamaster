@@ -1,4 +1,4 @@
-baseURL = "http://www.avalonhoasc.com"
+baseURL = "https://paperturkey.github.io/hoamaster"
 languageCode = "en-us"
 title = "Avalon"
 theme = "ananke"
