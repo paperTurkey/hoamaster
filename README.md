@@ -22,7 +22,7 @@ Obviously, we replace the year, month, and file name with what we actually want 
 ## To-Do
 - [X] Allow for community maintenance
 - [X] Secure new url (avalonhoasc.com)
-- [ ] Include Map of community
+- [X] Include Map of community
 - [X] Include Picture of Sign @ Front
 - [X] Build internal email addresses for board members
 - [X] Fix link for Property Improvement Request form
