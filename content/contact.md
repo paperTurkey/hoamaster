@@ -1,6 +1,6 @@
 ---
 title: Contact Information
-featured_image: "images/avalonMap.png"
+featured_image: "images/gettyimages-897266260-2048x2048.jpg"
 omit_header_text: true
 description: We'd love to hear from you
 type: page
@@ -9,6 +9,8 @@ menu: main
 ---
 
 The Avalon community is located right off of Irmo Drive in Irmo, South Carolina in the 29212 area code.
+
+![Map of Avalon](/images/avalonMap-transparent.png)
 
 # The Board of Directors
 ---
