@@ -1,6 +1,6 @@
 ---
 title: Contact Information
-featured_image: "images/gettyimages-897266260-2048x2048.jpg"
+featured_image: "images/avalonMap.png"
 omit_header_text: true
 description: We'd love to hear from you
 type: page
