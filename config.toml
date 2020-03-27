@@ -1,4 +1,4 @@
-baseURL = "http://www.avalonhoasc.com"
+baseURL = "www.avalonhoasc.com"
 languageCode = "en-us"
 title = "Avalon"
 theme = "ananke"
