@@ -17,7 +17,7 @@ The Avalon community is located right off of Irmo Drive in Irmo, South Carolina 
 * President: Charlie Smith
 * Vice President: Cindy Peterson
 * Secretary: Debi Mabie
-* Treasurer: Ronn Nester
+* Treasurer: Ronald W Nestor, CPA
 
 
 # Welcome Team
