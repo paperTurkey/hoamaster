@@ -32,4 +32,4 @@ Two members of our board will end their term in June. Please consider serving ou
 ### Next HOA Meeting Tuesday, April 14 at 7:00p
 *Updated March 28, 2020 because of COVID-19 concerns*
 
-All homeowners are encouraged to attend our monthly meetings to express ideas and concerns regarding our community. The next meeting will be on Tuesday, April 14 at 7:00p ~~at 149 Sandstone Road~~ on the web via [WebEx](https://bcbsscicthost.webex.com/meet/mat.sturdevant), due to the current outbreak of COVID-19 and in accordance with the federal and state government's requests for social distancing.
+All homeowners are encouraged to attend our monthly meetings to express ideas and concerns regarding our community. The next meeting will be on Tuesday, April 14 at 7:00p ~~at 149 Sandstone Road~~ on the phone via 415-655-0002, due to the current outbreak of COVID-19 and in accordance with the federal and state government's requests for social distancing. **To call in, you will need the participant code, please email [Mat Sturdevant](mailto:mathew.sturdevant@gmail.com) for the code**.
