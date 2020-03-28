@@ -32,7 +32,10 @@ If you have any questions or concerns for the board, please use the form below t
 Dial 911 for Police, Fire, and Ambulance emergencies.
 
 ## Lexington County Sheriff's Department (non-emergencies)
-Call 803-785-8230. Select option 6 to speak to a deputy on call and file a report.
+Call 803-785-8230. Select extension 1 to speak to a deputy on call and file a report.
 
 # Resident Deputy
 Our local Irmo Resident Deputy is James Forgione. He can be reached by using his email jforgione@lcsd.gov.
+
+# Lexington County Animal Control
+Call 803-785-8149
