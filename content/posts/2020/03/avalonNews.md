@@ -8,7 +8,7 @@ draft: false
 ### Avalon Reminders
 
 * Help keep Avalon beautiful by maintaining your yard and home.
-* Havce your home power washed if there is mold on the exterior.
+* Hace your home power washed if there is mold on the exterior.
 * Garbage, recycling, and yard trash should be put curbside only the **night before pickup** and receptacles removed by the day after pickup.
 * Please take a bag to clean up after your dog when walking in Avalon.
 * Lock vehicles left in th edriveway and don't leave anything valuable in sight.
