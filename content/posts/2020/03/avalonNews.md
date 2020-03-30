@@ -21,7 +21,7 @@ Call 888-333-4465 to report a streetlight that is out, whether in your yard or a
 ### Mailbox Repair
 
 Old South Ironworks, LLC provides mobile welding, mailboxes, and posts. Contact info:
-* [oldsouthironworks@gmail.com](oldsouthironworks@gmail.com)
+* [oldsouthironworks@gmail.com](mailto:oldsouthironworks@gmail.com)
 * (803) 295-2748
 * (803) 331-4367
 
