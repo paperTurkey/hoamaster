@@ -28,3 +28,5 @@ Obviously, we replace the year, month, and file name with what we actually want 
 - [X] Fix link for Property Improvement Request form
 - [X] Fix the contact us link
 - [X] Point contact us link to President's email
+- [ ] Check on Sweet Pea's Ice Cream and Cafe to see what is needed for them to come to Avalon. 803-318-2133
+
