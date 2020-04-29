@@ -35,5 +35,6 @@ Because the theme used is most likely a submodule, you have to do a little clean
 - [X] Fix link for Property Improvement Request form
 - [X] Fix the contact us link
 - [X] Point contact us link to President's email
-- [ ] Check on Sweet Pea's Ice Cream and Cafe to see what is needed for them to come to Avalon. 803-318-2133
-
+- [X] Check on Sweet Pea's Ice Cream and Cafe to see what is needed for them to come to Avalon. 803-318-2133
+- [ ] Research MailChimp for Community Mailing List
+- [ ] Put a link to the Ice Cream Social on the website.
