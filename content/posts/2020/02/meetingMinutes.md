@@ -1,5 +1,5 @@
 ---
-title: "Meeting Minutes"
+title: "Meeting Minutes For February 2020"
 date: 2020-02-11T18:55:05-04:00
 featured_image: "images/gettyimages-857146092-2048x2048.jpg"
 draft: false
