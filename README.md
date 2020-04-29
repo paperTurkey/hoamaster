@@ -16,6 +16,13 @@ hugo new posts/2020/03/meetingMinutes.md
 
 Obviously, we replace the year, month, and file name with what we actually want to use.
 
+## Rebuilding the Themes Folder
+
+Because the theme used is most likely a submodule, you have to do a little clean-up and rebuild when building this site on a new computer.
+1. We assume you've cloned the repo onto your local box. Navigate to $PATH/hoamaster/
+2. Run <code>git rm -r --cached themes</code>
+3. Run <code>git submodule add url_to_repo themes/themeName
+ * currently running git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke
 ## Update Standard Pages
 
 
