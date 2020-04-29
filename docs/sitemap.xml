@@ -4,20 +4,27 @@
   
   <url>
     <loc>http://www.avalonhoasc.com/</loc>
-    <lastmod>2020-04-28T22:03:12-04:00</lastmod>
+    <lastmod>2020-04-28T22:17:03-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://www.avalonhoasc.com/posts/2020/04/icecream/</loc>
-    <lastmod>2020-04-28T22:03:12-04:00</lastmod>
+    <loc>http://www.avalonhoasc.com/posts/2020/04/nexthoameeting/</loc>
+    <lastmod>2020-04-28T22:17:03-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://www.avalonhoasc.com/posts/</loc>
+    <lastmod>2020-04-28T22:17:03-04:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.avalonhoasc.com/posts/2020/04/icecream/</loc>
     <lastmod>2020-04-28T22:03:12-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
