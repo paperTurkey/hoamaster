@@ -1,6 +1,7 @@
 ---
 title: "Bring a Food Truck to Avalon"
 date: 2020-05-07T15:38:39-04:00
+featured_image: "images/food_truck.jpg"
 draft: false
 ---
 
