@@ -1,5 +1,5 @@
 ---
-title: "MayHOABoardMeeting"
+title: "May HOA Board Meeting"
 date: 2020-05-07T12:22:31-04:00
 featured_image: "images/gettyimages-539964252-2048x2048.jpg"
 draft: false
