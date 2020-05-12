@@ -9,5 +9,5 @@ Thank you all for coming out for our past two events: Ice Cream with Sweet Pea's
 
 See you around the neighborhood!
 
-![Sweet Pea's Family Photo](../../images/IMG_3931.jpg)
-![Pelican's Snoballs Photo](../../images/IMG_3978.JPG)
+![Sweet Pea's Family Photo](../../../../images/IMG_3931.jpg)
+![Pelican's Snoballs Photo](../../../../images/IMG_3978.JPG)
