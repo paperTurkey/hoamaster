@@ -1,2 +1,3 @@
 ## ignore directories and everything in them
 public/*
+themes/*
