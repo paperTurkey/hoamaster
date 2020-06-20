@@ -1,6 +1,7 @@
 ---
 title: "Freecycle Event Coming"
 date: 2020-06-19T14:45:49-04:00
+featured_image: "images/freecycle.jpg"
 draft: false
 ---
 
