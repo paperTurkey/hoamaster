@@ -9,6 +9,6 @@ Thank you all very much for giving us feedback on your desire to have and partic
 
 If you are putting things out for the event, please coordinate with Cindy Peterson, as noted in the news letter. She will ensure you get a balloon at the end of your drive way to denote participation.
 
-Any and all questions can either go directly to Cindy or you can use the contact us form here, on the website.
+Any and all questions can either go directly to Cindy @ 803-414-5054 or you can use the contact us form here, on the website.
 
 Thank you to all of our participants!

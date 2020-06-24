@@ -9,5 +9,5 @@ A big thank you goes out to our neighbor, Stephanie Anderson, for the upcoming f
 
 | Food Truck        | Date            | Time            |
 | ----------------- |:---------------:| ---------------:|
-| Billy G's BBQ     |   __June 25__   | 4:30PM - 7:00PM |
+| Billy G's BBQ     |   __June 25__   | 5:00PM - 7:30PM |
 | Sputtering Around |   __July 9__    | 4:00PM - 7:00PM |
