@@ -1,6 +1,6 @@
 ---
 title: "Food Trucks Coming to Avalon in September"
-date: 2020-08-20T21:36:03Z
+date: 2020-08-20T12:36:03Z
 featured_image: "images/food_truck.jpg"
 draft: false
 ---
