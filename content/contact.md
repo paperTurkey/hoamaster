@@ -28,6 +28,14 @@ If you have any questions or concerns for the board, please use the form below t
 
 {{< form-contact action="https://formspree.io/xvoqyydp"  >}}
 
+# Mailing in HOA Dues
+Please mail your HOA dues to:
+
+Avalon Homeowners Association  
+P. O. Box 2473  
+Irmo, South Carolina 29063  
+
+
 # Other Contacts
 Dial 911 for Police, Fire, and Ambulance emergencies.
 
