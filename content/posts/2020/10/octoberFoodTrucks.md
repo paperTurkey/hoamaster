@@ -2,7 +2,7 @@
 title: "October Food Trucks"
 date: 2020-10-06T23:47:24Z
 draft: false
-featured_image: "ft_hippie_chicks.jpg"
+featured_image: "images/ft_hippie_chicks.jpg"
 ---
 
 # Food Trucks Coming in October
