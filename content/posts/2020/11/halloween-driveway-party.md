@@ -3,7 +3,6 @@ title: "Halloween Driveway Party"
 date: 2020-11-03T01:29:07Z
 draft: false
 featured_image: "images/avalonHalloweenParty_20201031_04.JPG"
-
 ---
 Thank you to all of you who came to the Avalon Neighborhood Halloween Party hosted by the Croissant's with the help of the Avalon HOA Board. Here are some of the many great memories made during this year's party.
 
