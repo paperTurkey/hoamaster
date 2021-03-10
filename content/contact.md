@@ -35,23 +35,23 @@ Avalon Homeowners Association
 P. O. Box 2473  
 Irmo, South Carolina 29063  
 
-# Mailbox Repair?
-If you need mailbox repair or ironwork done, please reach out to:
-
-Old South Ironworks
-Owner: Van Safriet
-oldsouthironworks@gmail.com
-office 803-295-2748
-mobile 803-331-4367.
-
 # Other Contacts
 Dial 911 for Police, Fire, and Ambulance emergencies.
 
 ## Lexington County Sheriff's Department (non-emergencies)
 Call 803-785-8230. Select extension 1 to speak to a deputy on call and file a report.
 
-# Resident Deputy
+### Resident Deputy
 Our local Irmo Resident Deputy is James Forgione. He can be reached by using his email jforgione@lcsd.gov.
 
-# Lexington County Animal Control
+##Lexington County Animal Control
 Call 803-785-8149
+
+## Mailbox Repair?
+If you need mailbox repair or ironwork done, please reach out to:
+
+Old South Ironworks
+Owner: Van Safriet
+oldsouthironworks@gmail.com
+office 803-295-2748
+mobile 803-331-4367
