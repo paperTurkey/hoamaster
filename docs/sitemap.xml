@@ -1,204 +1,156 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
+    <loc>http://www.avalonhoasc.com/</loc>
+    <lastmod>2021-03-17T01:50:41+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://www.avalonhoasc.com/posts/2021/03/lost-and-found-a-shoe/</loc>
+    <lastmod>2021-03-17T01:50:41+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://www.avalonhoasc.com/posts/2021/03/foodtruck-doza-rizen/</loc>
+    <lastmod>2021-03-17T01:50:41+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://www.avalonhoasc.com/posts/</loc>
+    <lastmod>2021-03-17T01:50:41+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://www.avalonhoasc.com/posts/2021/02/att-work/</loc>
     <lastmod>2021-02-08T01:50:41+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.avalonhoasc.com/</loc>
-    <lastmod>2021-02-08T01:50:41+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.avalonhoasc.com/posts/</loc>
-    <lastmod>2021-02-08T01:50:41+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.avalonhoasc.com/posts/2020/12/cafe-strudel-on-the-move/</loc>
     <lastmod>2020-12-01T18:50:41+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.avalonhoasc.com/posts/2020/11/fleur-delicious-to-avalon/</loc>
     <lastmod>2020-11-22T01:50:41+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.avalonhoasc.com/posts/2020/11/sweet-dreams-avalon/</loc>
     <lastmod>2020-11-10T01:50:41+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.avalonhoasc.com/posts/2020/11/halloween-driveway-party/</loc>
     <lastmod>2020-11-03T01:29:07+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.avalonhoasc.com/posts/2020/10/halloweenevent/</loc>
     <lastmod>2020-10-16T08:47:24+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.avalonhoasc.com/posts/2020/10/octoberfoodtrucks/</loc>
     <lastmod>2020-10-06T23:47:24+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.avalonhoasc.com/posts/2020/09/meetingminutes/</loc>
     <lastmod>2020-10-06T19:13:05-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.avalonhoasc.com/posts/2020/08/september-food-trucks/</loc>
     <lastmod>2020-08-20T12:36:03+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.avalonhoasc.com/posts/2020/07/updated-food-truck-times/</loc>
     <lastmod>2020-07-06T21:36:03+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.avalonhoasc.com/posts/2020/06/more-food-trucks-coming/</loc>
     <lastmod>2020-06-20T21:36:03+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.avalonhoasc.com/posts/2020/06/freecycleevent/</loc>
     <lastmod>2020-06-19T14:45:49-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.avalonhoasc.com/posts/2020/06/junehoaboardmeeting/</loc>
     <lastmod>2020-06-08T12:22:31-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.avalonhoasc.com/posts/2020/05/freecycleevent/</loc>
     <lastmod>2020-05-26T14:45:49-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.avalonhoasc.com/posts/2020/05/eventsinavalon/</loc>
     <lastmod>2020-05-11T15:38:39-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.avalonhoasc.com/posts/2020/05/bringafoodtrucktoavalon/</loc>
     <lastmod>2020-05-07T15:38:39-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.avalonhoasc.com/posts/2020/05/pelicanssnoballs/</loc>
     <lastmod>2020-05-07T12:22:53-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.avalonhoasc.com/posts/2020/05/mayhoaboardmeeting/</loc>
     <lastmod>2020-05-07T12:22:31-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.avalonhoasc.com/posts/2020/04/nexthoameeting/</loc>
     <lastmod>2020-04-28T22:17:03-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.avalonhoasc.com/posts/2020/04/icecream/</loc>
     <lastmod>2020-04-28T22:03:12-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.avalonhoasc.com/posts/2020/03/avalonnews/</loc>
     <lastmod>2020-03-15T21:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.avalonhoasc.com/posts/2020/03/meetingminutes/</loc>
     <lastmod>2020-03-10T22:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.avalonhoasc.com/posts/2020/02/meetingminutes/</loc>
     <lastmod>2020-02-11T18:55:05-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.avalonhoasc.com/categories/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.avalonhoasc.com/contact/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.avalonhoasc.com/documents/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.avalonhoasc.com/tags/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
-  
 </urlset>
